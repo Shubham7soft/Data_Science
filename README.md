@@ -7,24 +7,24 @@ This collection of work is a direct outcome of hands-on training derived from a 
 # 🛠️ Core Technologies & Libraries
 My proficiency has been developed through consistent engagement with the following key tools and libraries:
 
-# . Python: The primary programming language underpinning all analytical and model development efforts.
+ .Python: The primary programming language underpinning all analytical and model development efforts.
 
-Jupyter Notebooks: Employed for interactive development, data exploration, and structured presentation of analytical workflows.
+ .Jupyter Notebooks: Employed for interactive development, data exploration, and structured presentation of analytical workflows.
 
-NumPy: Utilized for high-performance numerical operations and array manipulation.
+ .NumPy: Utilized for high-performance numerical operations and array manipulation.
 
-Pandas: Applied extensively for data acquisition, cleaning, transformation, and in-depth analysis.
+ .Pandas: Applied extensively for data acquisition, cleaning, transformation, and in-depth analysis.
 
-Matplotlib & Seaborn: Employed for generating diverse statistical and exploratory data visualizations.
+ .Matplotlib & Seaborn: Employed for generating diverse statistical and exploratory data visualizations.
 
-Scikit-learn (Sklearn): Leveraged for implementing a wide array of machine learning algorithms.
+ .Scikit-learn (Sklearn): Leveraged for implementing a wide array of machine learning algorithms.
 
-Anaconda: The distribution used for efficient package and environment management.
+ .Anaconda: The distribution used for efficient package and environment management.
 
-SQL: A foundational understanding of relational database querying and management.
+ .SQL: A foundational understanding of relational database querying and management.
 
-📂 Featured Projects
-📊 Data Analysis with NumPy & Pandas
+# 📂 Featured Projects
+## 📊 Data Analysis with NumPy & Pandas
 Broadcasting.ipynb: Explores NumPy's broadcasting mechanics, crucial for efficient array arithmetic across varying dimensions.
 
 data_type.ipynb: Investigates and manipulates NumPy array data types, fundamental for memory optimization and computational accuracy.
