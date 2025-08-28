@@ -1,13 +1,13 @@
 # 🚀 Data Science & Machine Learning Portfolio
 This repository documents my progression in Data Science and Machine Learning, featuring projects and foundational practice notebooks. It demonstrates my application of core concepts and practical skills using Python and its robust ecosystem.
 
-📚 Course Curriculum Overview
+# 📚 Course Curriculum Overview
 This collection of work is a direct outcome of hands-on training derived from a comprehensive Data Science and Machine Learning course, covering essential theoretical and practical topics.
 
-🛠️ Core Technologies & Libraries
+# 🛠️ Core Technologies & Libraries
 My proficiency has been developed through consistent engagement with the following key tools and libraries:
 
-Python: The primary programming language underpinning all analytical and model development efforts.
+# . Python: The primary programming language underpinning all analytical and model development efforts.
 
 Jupyter Notebooks: Employed for interactive development, data exploration, and structured presentation of analytical workflows.
 
