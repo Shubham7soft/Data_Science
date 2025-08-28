@@ -31,7 +31,7 @@ data_type.ipynb: Investigates and manipulates NumPy array data types, fundamenta
 
 Inde_slic.ipynb: Illustrates advanced NumPy indexing and slicing strategies for precise data access and modification.
 
-📈 Data Visualization
+## 📈 Data Visualization
 Notebooks such as lung-cancer-prediction.ipynb and Titanic_Survival_Prediction.ipynb showcase the application of matplotlib.pyplot and seaborn for:
 
 Histograms to analyze data distributions.
@@ -40,8 +40,8 @@ Box plots for identifying outliers and understanding data spread.
 
 A variety of plots for comprehensive exploratory data analysis (EDA).
 
-🤖 Machine Learning Applications
-1. Lung Cancer Prediction 🏥
+# 🤖 Machine Learning Applications
+## 1. Lung Cancer Prediction 🏥
 lung_cancer.csv: The dataset used for developing a predictive model for lung cancer.
 
 lung-cancer-prediction.ipynb: This project encompasses:
@@ -54,7 +54,7 @@ Exploratory Data Analysis (EDA): Visualizing feature distributions and their cor
 
 Model Development & Evaluation: Training and assessing machine learning models, with a critical emphasis on recall for class 1 to minimize false negatives in medical diagnostics.
 
-2. Titanic Survival Prediction 🚢
+## 2. Titanic Survival Prediction 🚢
 train.csv, test.csv, gender_submission.csv: Standard datasets for the Kaggle Titanic survival prediction challenge.
 
 Titanic_Survival_Prediction.ipynb: This machine learning pipeline includes:
@@ -69,7 +69,7 @@ Categorical Feature Encoding: Transformation of nominal features ('Sex', 'Embark
 
 Model Training & Prediction: Application of machine learning algorithms to predict passenger survival.
 
-3. Foundational ML Algorithm 🍎🍊
+## 3. Foundational ML Algorithm 🍎🍊
 firstml_algo.ipynb: This notebook introduces a fundamental Scikit-learn Decision Tree Classifier, illustrating key machine learning steps:
 
 Defining feature sets and corresponding labels for classification.
@@ -78,7 +78,7 @@ Instantiating and training a basic classification model.
 
 Executing predictions using the trained model.
 
-💡 Ongoing Development & Objectives
+# 💡 Ongoing Development & Objectives
 This repository serves as a testament to an ongoing commitment to learning and skill refinement. Current areas of focus include:
 
 Mastery of advanced feature engineering methodologies.
