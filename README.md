@@ -1,4 +1,4 @@
-#🚀 Data Science & Machine Learning Portfolio
+# 🚀 Data Science & Machine Learning Portfolio
 This repository documents my progression in Data Science and Machine Learning, featuring projects and foundational practice notebooks. It demonstrates my application of core concepts and practical skills using Python and its robust ecosystem.
 
 📚 Course Curriculum Overview
