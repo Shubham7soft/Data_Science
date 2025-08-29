@@ -5,15 +5,15 @@ This project tackles the classic Kaggle challenge of predicting passenger surviv
 The primary goal is to develop a robust machine learning model capable of predicting the survival outcome of passengers aboard the RMS Titanic. This involves analyzing passenger data to identify key features influencing survival and building a model to make accurate predictions on unseen data.
 
 # 📊 Dataset
-## The project utilizes two main datasets:
+### The project utilizes two main datasets:
 
-## .train.csv: The training dataset, containing passenger details and their survival status.
+### .train.csv: The training dataset, containing passenger details and their survival status.
 
-## .test.csv: The test dataset, containing passenger details for whom survival predictions need to be made.
+### .test.csv: The test dataset, containing passenger details for whom survival predictions need to be made.
 
-## .gender_submission.csv: A sample submission file showing the expected format.
+### .gender_submission.csv: A sample submission file showing the expected format.
 
-## Key Features (from train.csv and test.csv):
+### Key Features (from train.csv and test.csv):
 
 .PassengerId: Unique ID for each passenger.
 
@@ -40,19 +40,19 @@ The primary goal is to develop a robust machine learning model capable of predic
 .Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 # 🛠️ Technologies & Libraries
-## .Python: The core programming language.
+### .Python: The core programming language.
 
-## .Jupyter Notebooks: For interactive development and analysis.
+### .Jupyter Notebooks: For interactive development and analysis.
 
-## .Pandas: For data manipulation and analysis.
+### .Pandas: For data manipulation and analysis.
 
-## .NumPy: For numerical operations.
+### .NumPy: For numerical operations.
 
-## .Scikit-learn (Sklearn): For machine learning model implementation and evaluation.
+### .Scikit-learn (Sklearn): For machine learning model implementation and evaluation.
 
   .Classification Algorithms: (e.g., Logistic Regression, as suggested in your bullet points).
 
-## .Matplotlib & Seaborn: For data visualization and exploratory data analysis (EDA).
+### .Matplotlib & Seaborn: For data visualization and exploratory data analysis (EDA).
 
 # 🧪 Methodology
 The project follows a comprehensive machine learning workflow:
